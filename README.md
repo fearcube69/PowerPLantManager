@@ -1,5 +1,5 @@
 ### I just made this project because changing powerplant setting is such as hassle.
-By default your CPU will run with boost clock on especially on the X86/X64 cpu or whatever the name is
+By default your CPU will run with boost clock on especially on the X86/X64 cpu or whatever the name is.
 If you set the max cpu clock to less than 100%, it will turn off the CPU boost clock somehow but ok
 
 Why turn your CPU Boost Clock OFF?
