@@ -22,7 +22,7 @@ Well, try it out and have fun I guess....
 
 ---
 
-### Option 1: Build Portable Executable (Single-File `.exe`)
+### Compiling to Portable Executable
 
 Compile the application and runtime into a single standalone `.exe` that runs on any Windows PC without needing .NET installed:
 
