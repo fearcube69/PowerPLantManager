@@ -1,0 +1,14 @@
+# Build output directories
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Executables and publishing artifacts
+*.exe
+*.dll
+*.pdb
